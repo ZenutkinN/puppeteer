@@ -1,0 +1,14 @@
+{
+  "name": "front-and-friday-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zenytukin Nikolay",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^7.0.1"
+  }
+}
